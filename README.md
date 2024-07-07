@@ -16,5 +16,6 @@ GitHub Pages - це односторінковий сайт на який не �
 [admin@syd.pp.ua](mailto:admin@syd.pp.ua) - Пошта проекту<br>
 
 ### Логотип
-<img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo.png" alt="Sea" width="200" height="200"> <img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-curve.png" alt="Sea" width="200" height="200"> <img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-circle.png" alt="Sea" width="200" height="200"> 
-
+<img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo.png" alt="log" width="200" height="200"> <img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-curve.png" alt="logo" width="200" height="200"> <img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-circle.png" alt="logo" width="200" height="200"> 
+### Обкладинка
+<img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_cover.jpeg" alt="Cover" >
