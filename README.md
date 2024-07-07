@@ -17,6 +17,12 @@ GitHub Pages - це односторінковий сайт на який не �
 
 ### Логотип
 <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_logo.png" alt="log" width="200" height="200"> <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_logo-curve.png" alt="logo" width="200" height="200"> <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_logo-circle.png" alt="logo" width="200" height="200"> 
+
 ### Обкладинка
 <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_cover.jpeg" alt="Cover" >
-**Ця картинка зроблена в грі!**
+Ця картинка зроблена в грі!
+
+### Посилання
+[https://skyd.pp.ua/](https://skyd.pp.ua/) - Основний сайт
+[https://clock.skyd.pp.ua/](https://clock.skyd.pp.ua/) - Годинник - Sky: Діти Світла (Програма яка імпортована на даний суб домен за допомогою iframe)(основний дамен програми - [https://sky-clock.netlify.app/](https://sky-clock.netlify.app/))
+
