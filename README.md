@@ -12,10 +12,9 @@ GitHub Pages - це односторінковий сайт на який не �
 
 ### Поштовий сервір проекту
 Я використовую - [Zoho](https://www.zoho.com/)<br>
-anmenig@skyd.pp.ua - Зв'язатися зі мною <br>
-admin@syd.pp.ua - Пошта проекту<br>
+[anmenig@skyd.pp.ua](mailto:anmenig@skyd.pp.ua) - Зв'язатися зі мною <br>
+[admin@syd.pp.ua](mailto:admin@syd.pp.ua) - Пошта проекту<br>
 
 ### Логотип
-<img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo.png" alt="Sea" width="200" height="200">
-<img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-curve.png" alt="Sea" width="200" height="200">
+<img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo.png" alt="Sea" width="200" height="200"> <img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-curve.png" alt="Sea" width="200" height="200"> <img src="https://github.com/skyd-pp-ua/skyd-pp-ua.github.io/blob/main/skyd.pp.ua_logo-circle.png" alt="Sea" width="200" height="200"> 
 
