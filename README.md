@@ -19,3 +19,4 @@ GitHub Pages - це односторінковий сайт на який не �
 <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_logo.png" alt="log" width="200" height="200"> <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_logo-curve.png" alt="logo" width="200" height="200"> <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_logo-circle.png" alt="logo" width="200" height="200"> 
 ### Обкладинка
 <img src="https://raw.githubusercontent.com/skyd-pp-ua/skyd-pp-ua.github.io/main/skyd.pp.ua_cover.jpeg" alt="Cover" >
+**Ця картинка зроблена в грі!**
