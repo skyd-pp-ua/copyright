@@ -1,3 +1,4 @@
+ <p style="text-align: center;"><img src="https://skyd.pp.ua/favicon.ico" alt="Logo" width="48" height="48" /></p>
 Ukrainian language
 
 Ця сторінка створена через [правила спільноти YouTube](https://support.google.com/youtube/answer/9288567?hl=uk)
